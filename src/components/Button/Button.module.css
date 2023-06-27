@@ -1,0 +1,11 @@
+.button {
+  padding: 16px 48px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  margin-left: 32px;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.33;
+  border: none;
+  background-color: #fff;
+}

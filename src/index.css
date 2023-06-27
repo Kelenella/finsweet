@@ -1,0 +1,52 @@
+:root {
+  --header-background: #232536;
+  --main-text-color: #fff;
+}
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Sen", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.4;
+
+  /* background-color: var(--bg-color); */
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+audio,
+video {
+  display: inline-block;
+}
+
+img {
+  display: block;
+  /* max-width: 100%;
+  height: auto; */
+}
