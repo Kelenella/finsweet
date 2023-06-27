@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/finsweet/static/css/main.7cda0caf.css",
-    "main.js": "/finsweet/static/js/main.c1b5d9bc.js",
+    "main.css": "/finsweet/static/css/main.ac09c36b.css",
+    "main.js": "/finsweet/static/js/main.a3048369.js",
+    "static/media/Logo.svg": "/finsweet/static/media/Logo.d88fc9105282e65422f83dad78ca6fb4.svg",
     "index.html": "/finsweet/index.html",
-    "main.7cda0caf.css.map": "/finsweet/static/css/main.7cda0caf.css.map",
-    "main.c1b5d9bc.js.map": "/finsweet/static/js/main.c1b5d9bc.js.map"
+    "main.ac09c36b.css.map": "/finsweet/static/css/main.ac09c36b.css.map",
+    "main.a3048369.js.map": "/finsweet/static/js/main.a3048369.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cda0caf.css",
-    "static/js/main.c1b5d9bc.js"
+    "static/css/main.ac09c36b.css",
+    "static/js/main.a3048369.js"
   ]
 }
