@@ -9,7 +9,9 @@ const Header = ({
 }) => {
   return (
     <header className={s.header}>
-      <Logo />
+      <a href="/">
+        <Logo />
+      </a>
       <nav>
         <ul className={s.navList}>
           <li className={s.navItem}>
@@ -17,6 +19,7 @@ const Header = ({
               {textHome}
             </a>
           </li>
+
           <li className={s.navItem}>
             <a href="/" className={s.navLink}>
               {textBlog}
@@ -36,7 +39,7 @@ const Header = ({
           </li>
         </ul>
       </nav>
-      <Button text={"Subscribe"} />
+      <Button text={"Subscribe"} type={Button} />
     </header>
   );
 };
