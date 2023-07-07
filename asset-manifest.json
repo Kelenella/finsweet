@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/finsweet/static/css/main.ac09c36b.css",
-    "main.js": "/finsweet/static/js/main.a3048369.js",
+    "main.css": "/finsweet/static/css/main.27424362.css",
+    "main.js": "/finsweet/static/js/main.65efcd1b.js",
+    "static/media/man-in-black-suit-wearing-eye-glasses-x1.jpg": "/finsweet/static/media/man-in-black-suit-wearing-eye-glasses-x1.ef70e93c2ad4fe4bb9ef.jpg",
     "static/media/Logo.svg": "/finsweet/static/media/Logo.d88fc9105282e65422f83dad78ca6fb4.svg",
     "index.html": "/finsweet/index.html",
-    "main.ac09c36b.css.map": "/finsweet/static/css/main.ac09c36b.css.map",
-    "main.a3048369.js.map": "/finsweet/static/js/main.a3048369.js.map"
+    "main.27424362.css.map": "/finsweet/static/css/main.27424362.css.map",
+    "main.65efcd1b.js.map": "/finsweet/static/js/main.65efcd1b.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac09c36b.css",
-    "static/js/main.a3048369.js"
+    "static/css/main.27424362.css",
+    "static/js/main.65efcd1b.js"
   ]
 }
