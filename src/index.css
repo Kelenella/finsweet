@@ -1,6 +1,9 @@
 :root {
   --header-background: #232536;
-  --main-text-color: #fff;
+  --main-text-color: #6d6e76;
+  --hero-footer-text-color: #fff;
+  --dark-text-color: #000;
+  --accent-color: #ffd050;
 }
 html {
   box-sizing: border-box;
