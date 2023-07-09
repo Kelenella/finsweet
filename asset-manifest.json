@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/finsweet/static/css/main.c557cd5b.css",
-    "main.js": "/finsweet/static/js/main.d6b351f5.js",
+    "main.css": "/finsweet/static/css/main.71b1d1f2.css",
+    "main.js": "/finsweet/static/js/main.65347a01.js",
     "static/media/man-in-black-suit-wearing-eye-glasses-x1.jpg": "/finsweet/static/media/man-in-black-suit-wearing-eye-glasses-x1.ef70e93c2ad4fe4bb9ef.jpg",
+    "static/media/woman-in-white-and-black-striped-shirt-1x.jpg": "/finsweet/static/media/woman-in-white-and-black-striped-shirt-1x.b961df93f3952dbbcfe3.jpg",
+    "static/media/content-baker-1x.jpg": "/finsweet/static/media/content-baker-1x.1a713781f8659ce03e84.jpg",
+    "static/media/man-in-yellow-shirt-1x.jpg": "/finsweet/static/media/man-in-yellow-shirt-1x.f3ab0e5fdac93ba34f38.jpg",
+    "static/media/fashion-woman-1x.jpg": "/finsweet/static/media/fashion-woman-1x.bbe2c1ffecaeb0396198.jpg",
     "static/media/Logo.svg": "/finsweet/static/media/Logo.d88fc9105282e65422f83dad78ca6fb4.svg",
     "index.html": "/finsweet/index.html",
-    "main.c557cd5b.css.map": "/finsweet/static/css/main.c557cd5b.css.map",
-    "main.d6b351f5.js.map": "/finsweet/static/js/main.d6b351f5.js.map"
+    "main.71b1d1f2.css.map": "/finsweet/static/css/main.71b1d1f2.css.map",
+    "main.65347a01.js.map": "/finsweet/static/js/main.65347a01.js.map"
   },
   "entrypoints": [
-    "static/css/main.c557cd5b.css",
-    "static/js/main.d6b351f5.js"
+    "static/css/main.71b1d1f2.css",
+    "static/js/main.65347a01.js"
   ]
 }
