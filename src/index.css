@@ -4,6 +4,9 @@
   --hero-footer-text-color: #fff;
   --dark-text-color: #000;
   --accent-color: #ffd050;
+  --author-bg-color: #f4f4f4;
+  --author-bg-accent-color: #fbf6ea;
+  --author-name-color: #232536;
 }
 html {
   box-sizing: border-box;

@@ -1,17 +1,72 @@
 .title {
+  text-align: center;
+  margin-bottom: 48px;
+  font-family: Sen;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: -2px;
+  color: var(--dark-text-color);
 }
 .listAuthors {
   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .itemAuthors {
+  width: 296px;
+  height: 324px;
+  background-color: var(--author-bg-color);
+  transition: background-color 250ms cubic-bezier(0.17, 0.67, 0.83, 0.67);
+}
+.itemAuthors:not(:last-child) {
+  margin-right: 32px;
+}
+.itemAuthors:hover,
+.itemAuthors:focus {
+  background-color: var(--author-bg-accent-color);
+}
+.imgAuthor {
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 40px;
+  border-radius: 50%;
+  cursor: pointer;
 }
 .nameAuthor {
+  margin-top: 20px;
+  font-family: Sen;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.43;
+  letter-spacing: -1px;
+  text-align: center;
+  color: var(--author-name-color);
+  cursor: pointer;
 }
 .txtAuthor {
+  margin-bottom: 20px;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.43;
+  text-align: center;
+  color: var(--main-text-color);
+  cursor: pointer;
 }
 .socialsList {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .socialsItem {
 }
+.socialsItem:not(:last-child) {
+  margin-right: 16px;
+}
 .socialsLink {
+  cursor: pointer;
 }
