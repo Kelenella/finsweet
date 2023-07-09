@@ -39,7 +39,7 @@ const Header = ({
           </li>
         </ul>
       </nav>
-      <Button text={"Subscribe"} type={Button} />
+      <Button text="Subscribe" type="button" />
     </header>
   );
 };

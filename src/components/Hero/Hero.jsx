@@ -19,7 +19,7 @@ const Hero = () => {
         dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
         proident.
       </p>
-      <Button text={"Read More >"} type={Button} />
+      <Button text="Read More >" type="button" />
     </div>
   );
 };

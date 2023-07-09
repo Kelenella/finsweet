@@ -1,0 +1,36 @@
+.footerFormWrap {
+  display: flex;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-left: 64px;
+  padding-right: 64px;
+  background-color: var(--header-background);
+}
+.footerFormText {
+  width: 562px;
+
+  font-family: Sen;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.33;
+  letter-spacing: -2px;
+  color: var(--hero-footer-text-color);
+}
+.footerForm {
+  margin-left: 64px;
+}
+.footerInput {
+  width: 323px;
+  height: 56px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-left: 25px;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.75;
+  background-color: var(--header-background);
+  border: 1px solid var(--footer-form-bg-color);
+}
