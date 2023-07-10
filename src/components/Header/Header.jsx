@@ -1,5 +1,4 @@
 import PropTypes from "prop-types";
-
 import Button from "../Button/Button";
 import { ReactComponent as Logo } from "../../img/icons/Logo.svg";
 import s from "./Header.module.css";
